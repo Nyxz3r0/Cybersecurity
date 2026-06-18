@@ -10,3 +10,34 @@ Check if passwords have appeared in known data breaches:
 
 Common Vulnerabilities and Exposures
   Link - https://www.cvedetails.com/
+
+MITRE
+
+Defang URL/IP, Base64 to ASCII, misc.
+  CyberChef - https://gchq.github.io/CyberChef/
+
+Phishing Tools
+  Virus Total - https://www.virustotal.com/gui/home/upload
+    Analyse suspicious files, domains, IPs and URLs to detect malware and other breaches, automatically share them with the security community
+  Phish Tool - https://www.phishtool.com/
+    Centralized phishing investigation
+
+  Email Header Analysis
+    Google MessageHeader - https://toolbox.googleapps.com/apps/messageheader/analyzeheader
+    Message Header Analyzer - https://mha.azurewebsites.net/
+
+  IP and URL Reputation Analysis (Phishing)
+    IPinfo - https://ipinfo.io/
+    URLscan - https://urlscan.io/
+    IP & Domain Reputation Center - https://talosintelligence.com/reputation_center/
+    URL Extractor - https://www.convertcsv.com/url-extractor.htm
+
+  Malware Analysis
+    ANYRUN - https://app.any.run/
+      Interactive malware sandbox
+    Hybrid Analysis - https://hybrid-analysis.com/
+      Malware sandbox
+    JOESandbox - https://www.joesandbox.com/#windows
+      Advanced malware analysis; static and dynamic analysis
+
+    
